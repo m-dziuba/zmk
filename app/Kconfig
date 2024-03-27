@@ -369,12 +369,9 @@ endmenu
 
 menu "Mouse Options"
 
-<<<<<<< HEAD
 config ZMK_MOUSE
     bool "Enable ZMK mouse emulation"
-=======
 rsource "src/mouse/Kconfig"
->>>>>>> urob/main
 
 #Mouse Options
 endmenu
